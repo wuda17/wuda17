@@ -1,4 +1,4 @@
-### Currently working in backend development 🔭. I like machine learning 😄. 
+### Hiya!
 
 <!--
 **wuda17/wuda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
